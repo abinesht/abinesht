@@ -110,13 +110,3 @@ Modernized legacy pharmacy systems with scalable backend architecture, optimized
 - 🔗 Portfolio: https://abinesh.dev/
 
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=abinesht&show_icons=true&theme=tokyonight" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinesht&layout=compact&theme=tokyonight" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abinesht&theme=tokyonight" />
