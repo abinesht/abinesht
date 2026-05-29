@@ -1,8 +1,8 @@
 ### Hi there, I'm Abinesh Thaventhirarajah! 👋
 
-Software Engineer from Sri Lanka 🇱🇰 with experience building scalable backend systems using Java, Spring Boot, and distributed system technologies. Passionate about backend engineering, system scalability, distributed architectures, and AI-powered solutions.
+Software Engineer from Sri Lanka 🇱🇰 with experience building scalable backend systems using Java, Spring Boot, and microservice architectures. Passionate about backend engineering, system scalability, machine learning development, and AI-powered solutions.
 
-🎓 Graduated in Computer Science and Engineering from the University of Moratuwa, specializing in Data Science.
+🎓 Graduated with First Class Honours in Computer Science and Engineering from the University of Moratuwa, specializing in Data Science.
 
 ---
 
