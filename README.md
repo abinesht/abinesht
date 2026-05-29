@@ -12,8 +12,9 @@ Software Engineer from Sri Lanka 🇱🇰 with experience building scalable back
 - 📊 CGPA: 3.78
 - 🏅 Dean’s List — 1st, 2nd, 3rd, 4th & 8th Semester
 - 🏆 Merit Award — National ICT Awards 2024
-- ♟️ International Rated Chess Player
-- 🌍 From Jaffna, Sri Lanka
+- ♟️ International Rated Chess Player (FIDE)  
+  - Standard: 1652 | Rapid: 1691 | Blitz: 1637
+
 
 ---
 
